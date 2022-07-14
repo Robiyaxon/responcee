@@ -28,5 +28,8 @@
     border: 2px solid red;
     flex: 1 1 13rem;
     flex-wrap: wrap;
+
+
+    
     align-self: normal;
 }
